@@ -12,6 +12,11 @@ This is a simple static frontend web application with the following screens:
 
 📌 ***This is Task 1 of the internship at Krytix Solutions.***
 
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
 
 ## 🌐 Live Demo
 
@@ -31,8 +36,6 @@ task1/
 ├── style.css              # Styling for all pages
 ├── main.js                # JavaScript logic for form behavior
 └── dbtask.avif            # Image used in dashboard
-
-
 
 ---
 
